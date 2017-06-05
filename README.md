@@ -1,1 +1,20 @@
-# challenge-me
+Challenging yourself to constantly learn is tough. To help out, here's a list of challenges to participate in, some seasonal or on some scheduled basis, others any time you want.
+
+# Anytime
+
+## 100 Days Of Code
+
+**Learn more:** [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+
+Commit to writing code, an hour a day for 100 days. Whenever you choose to start is Day 1. Tweet about it, share it, post it on GitHub, inspire others to do the same.
+
+In keeping with the spirit of the original intent, if your day job is programming then it shouldn't be "work stuff".
+
+# October
+
+## Hacktoberfest
+
+**Learn more:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+DigitalOcean and GitHub team up to challenge everyone to contribute to open source throughout the month. Register on the site and find an open-source project to contribute to. At the end of the month, they run a report to see who has created at least four pull-requests and send out t-shirts and stickers to everyone who did.
+
