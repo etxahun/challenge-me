@@ -10,11 +10,19 @@ Commit to writing code, an hour a day for 100 days. Whenever you choose to start
 
 In keeping with the spirit of the original intent, if your day job is programming then it shouldn't be "work stuff".
 
-# October
+# Time of Year
 
-## Hacktoberfest
+## October
+
+### Hacktoberfest
 
 **Learn more:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 DigitalOcean and GitHub team up to challenge everyone to contribute to open source throughout the month. Register on the site and find an open-source project to contribute to. At the end of the month, they run a report to see who has created at least four pull-requests and send out t-shirts and stickers to everyone who did.
+
+# Periodically
+
+## Ludum Dare
+
+**Learn more:** [Ludum Dare](http://ludumdare.com/compo/rules/)
 
