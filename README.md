@@ -28,7 +28,7 @@ DigitalOcean and GitHub team up to challenge everyone to contribute to open sour
 
 **Learn more:** [24 Pull Requests: Giving back little gifts of code for Christmas](https://24pullrequests.com/)
 
-People are encouraged - on their own, or by forming teams or organizing meetups - to contribute to opensource during the 24 days leading up to Christmas.
+People are encouraged - on their own, or by forming teams or organizing meetups - to contribute to opensource during the 24 days leading up to Christmas. I guess that means a goal of one PR a day... pretty ambitious!
 
 # Periodically
 
