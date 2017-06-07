@@ -12,6 +12,12 @@ Commit to writing code, an hour a day for 100 days. Whenever you choose to start
 
 In keeping with the spirit of the original intent, if your day job is programming then it shouldn't be "work stuff".
 
+## Exercism
+
+**Learn more:** How it Works: For [New Developers](http://exercism.io/how-it-works/newbie) / For [Experienced Developers](http://exercism.io/how-it-works)
+
+Complete a set of exercises in the language of your choice. You work on each exercise one at a time, and you're provided with the test suite that (when all the tests pass) proves your solution is doing what it should do.
+
 # Time of Year
 
 ## October
