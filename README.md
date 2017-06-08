@@ -1,4 +1,4 @@
-Challenging yourself to constantly learn is tough. To help out, here's a list of challenges to participate in, some seasonal or on some scheduled basis, others any time you want.
+Challenging yourself to constantly learn is tough. To help out, here's a list of challenges to participate in, some seasonal or on some scheduled basis, others any time you want. *([Have a site to add](CONTRIBUTING.md)?)*
 
 When looking for an opensource project to help out with for some of the challenges below, check out these sites: [Up For Grabs](http://up-for-grabs.net/), [CodeMontage](http://codemontage.com/), [CodeTriage](https://www.codetriage.com/), [issuehub.io](http://issuehub.io/)
 
