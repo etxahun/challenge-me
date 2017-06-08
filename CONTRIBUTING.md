@@ -1,12 +1,12 @@
-If you'd like to submit a site, great!
+If you'd like to submit a site, just fork this repo and create a pull request containing three things:
 
-Just fork this repo and create a pull request containing three things:
-
-1. the name
-2. a link to learn more, and
-3. a brief description
+1. The name of the event
+2. A link for learning more
+3. A brief description
 
 Insert it wherever seems appropriate. (i.e. specific dates, periodically, anytime, or something new)
+
+**EXAMPLE:**
 
 > ## Name of Challenge
 
@@ -14,7 +14,7 @@ Insert it wherever seems appropriate. (i.e. specific dates, periodically, anytim
 
 > Brief explanation of the purpose of the challenge/contest.
 
-Here's some markdown you can copy if that makes it easier:
+**SAMPLE MARKDOWN** *(copy this if it makes it easier)*
 
 ```
 ## Name of Challenge
