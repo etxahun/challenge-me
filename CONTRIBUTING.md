@@ -6,9 +6,13 @@ If you'd like to submit a site, just fork this repo and create a pull request co
 
 Insert it wherever seems appropriate. (i.e. specific dates, periodically, anytime, or something new)
 
+---
+
 **EXAMPLE:**
 
 > <h2>Name of Challenge</h2><b>Learn more:</b> [Some Link](http://example.com/)<br><br>Brief explanation of the purpose of the challenge/contest.
+
+---
 
 **SAMPLE MARKDOWN** *(copy this if it makes it easier)*
 
