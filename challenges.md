@@ -1,4 +1,4 @@
-Here's a list of challenges and contests you can participate in. Some are certain times of the year, while others are on your own whenever you want.
+Here's a list of challenges and contests you can participate in. Some are certain times of the year, while others are on your own whenever you want. If you need an opensource project (such as for Hacktoberfest), check out these sites: [Up For Grabs](http://up-for-grabs.net/), [CodeMontage](http://codemontage.com/), [CodeTriage](https://www.codetriage.com/), [issuehub.io](http://issuehub.io/)
 
 # Anytime
 
