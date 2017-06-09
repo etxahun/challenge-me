@@ -1,6 +1,6 @@
 ![](z-climbing.jpg)
 
-Motivating yourself to constantly learn can be tough. If you're looking for something to try, here are some lists of practice sites and challenges you can participate in, some seasonal or on some scheduled basis, others any time you want.
+Motivating yourself - to do, to learn, whatever - can be tough. If you're looking for some inspiration, here are some lists of practice sites and challenges you can participate in, some on a regular basis and others any time you want.
 
 * Here's a [list of sites that offer practice problems](practice.md), on your own or in competition with others, such as Project Euler or Exercism.io.
 
