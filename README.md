@@ -2,7 +2,7 @@
 
 ![](z-climbing.jpg)
 
-Motivating yourself - to do, to learn, whatever - can be tough. If you're looking for some inspiration, here are some lists of practice sites and challenges you can participate in, some on a regular basis and others any time you want.
+Finding ways to challenge yourself, and to advance your programming skills, is easier when you find a good resource. If you're looking for a place to start, here are some sites that offer exercises and other challenges for you to participate in.
 
 * Here's a [list of sites that offer practice problems](practice.md), on your own or in competition with others, such as Project Euler or Exercism.io.
 
