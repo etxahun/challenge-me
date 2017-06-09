@@ -11,7 +11,7 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically, anyti
 
 **EXAMPLE:**
 
-> <h2>Name of Challenge</h2><b>Learn more:</b> [Some Link](http://example.com/)<br><br><b>Date(s):</b> Every October<br><br>Brief explanation of the purpose of the challenge/contest.
+> <h2>Name of Challenge</h2><b>Learn more:</b> [Some Link](http://example.com/)<br><br><b>When is it?</b> Every October<br><br>Brief explanation of the purpose of the challenge/contest.
 
 ---
 
@@ -22,7 +22,7 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically, anyti
 
 **Learn more:** [Some Link](http://example.com/)
 
-**Date(s):** Every October
+**When is it?** Every October
 
 Brief explanation of the purpose of the challenge/contest.
 ```
