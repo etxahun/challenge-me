@@ -1,4 +1,4 @@
-![](challenge.jpg)
+![](z-climbing.jpg)
 
 Motivating yourself to constantly learn can be tough. If you're looking for something to try, here are some lists of practice sites and challenges you can participate in, some seasonal or on some scheduled basis, others any time you want.
 
