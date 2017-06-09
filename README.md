@@ -26,6 +26,8 @@ Complete a set of exercises in the language of your choice. You work on each exe
 
 **Learn more:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
+**Date(s):** All October
+
 DigitalOcean and GitHub team up to challenge everyone to contribute to open source throughout the month. Register on the site and find an opensource project to contribute to. At the end of the month, they run a report to see who has created at least four pull-requests and send out t-shirts and stickers to everyone who did.
 
 ## December
@@ -34,6 +36,8 @@ DigitalOcean and GitHub team up to challenge everyone to contribute to open sour
 
 **Learn more:** [24 Pull Requests: Giving back little gifts of code for Christmas](https://24pullrequests.com/)
 
+**Date(s):** All December
+
 People are encouraged - on their own, or by forming teams or organizing meetups - to contribute to opensource during the 24 days leading up to Christmas. I guess that means a goal of one PR a day... pretty ambitious!
 
 # Periodically
@@ -41,6 +45,8 @@ People are encouraged - on their own, or by forming teams or organizing meetups 
 ## Ludum Dare
 
 **Learn more:** [Ludum Dare](http://ludumdare.com/compo/rules/)
+
+**Date(s):** *varies, see the site for details*
 
 From the [site](http://ludumdare.com/compo/about-ludum-dare/):
 
