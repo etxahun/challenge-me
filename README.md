@@ -18,6 +18,12 @@ In keeping with the spirit of the original intent, if your day job is programmin
 
 Complete a set of exercises in the language of your choice. You work on each exercise one at a time, and you're provided with the test suite that (when all the tests pass) proves your solution is doing what it should do.
 
+## Project Euler
+
+**Learn more:** [Project Euler](https://projecteuler.net/)
+
+"Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems." ~ [source](https://projecteuler.net/)
+
 # Time of Year
 
 ## October
@@ -48,6 +54,4 @@ People are encouraged - on their own, or by forming teams or organizing meetups 
 
 **When is it?** *varies, see the site for details*
 
-From the [site](http://ludumdare.com/compo/about-ludum-dare/):
-
-> Ludum Dare is an online community best known for “Ludum Dare”, the Accelerated Game Development Event of the same name (also called a “Game Jam”). During a Ludum Dare, developers from around the world spend a weekend creating games based on a theme suggested by the community. Ludum Dare events take place every April, August and December.
+"Ludum Dare is an online community best known for “Ludum Dare”, the Accelerated Game Development Event of the same name (also called a “Game Jam”). During a Ludum Dare, developers from around the world spend a weekend creating games based on a theme suggested by the community. Ludum Dare events take place every April, August and December." ~ [source](http://ludumdare.com/compo/about-ludum-dare/)
