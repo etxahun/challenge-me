@@ -9,13 +9,19 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically, anyti
 
 ---
 
-**EXAMPLE:**
+***EXAMPLE:***
 
-> <h2>Name of Challenge</h2><b>Learn more:</b> [Some Link](http://example.com/)<br><br><b>When is it?</b> Every October<br><br>Brief explanation of the purpose of the challenge/contest.
+<h2>Name of Challenge</h2>
+
+<b>Learn more:</b> [Some Link](http://example.com/)
+
+<b>When is it?</b> Every October
+
+Brief explanation of the purpose of the challenge/contest.
 
 ---
 
-**SAMPLE MARKDOWN** *(copy this if it makes it easier)*
+***SAMPLE MARKDOWN** (copy this if it makes it easier)*
 
 ```
 ## Name of Challenge
