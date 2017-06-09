@@ -1,4 +1,4 @@
-If you'd like to submit a site, just fork this repo and create a pull request containing three things:
+If you'd like to submit a site, just fork this repo and create a pull request containing:
 
 1. The name of the event
 2. The date(s) of the event *(not applicable for 'anytime' events - i.e. October, or Second Week of February, Jan 15th, etc)*
@@ -21,7 +21,7 @@ Brief explanation of the purpose of the challenge/contest.
 
 ---
 
-***SAMPLE MARKDOWN** (copy this if it makes it easier)*
+***SAMPLE MARKDOWN** (copy this if it makes life easier)*
 
 ```
 ## Name of Challenge
