@@ -1,4 +1,4 @@
-Here's a list of contests you can participate in, 
+Here's a list of challenges and contests you can participate in. Some are certain times of the year, while others are on your own whenever you want.
 
 # Anytime
 
