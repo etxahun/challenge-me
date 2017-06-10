@@ -10,6 +10,12 @@ This one is a sort of a category. Werner Hett created 99 problems to help people
 * [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
+## Codechef
+
+**Learn more:** [Codechef](https://www.codechef.com/aboutus)
+
+"CodeChef is a not-for-profit educational initiative by Directi, an Indian software company. It is a global programming community that fosters learning and friendly competition, built on top of the world’s largest competitive programming platform." *~ [source](https://www.codechef.com/aboutus)
+
 ## CodeKata
 
 **Learn more:** [CodeKata](http://codekata.com/kata/codekata-intro/)
@@ -68,7 +74,7 @@ They provide hundreds of exercises that you can complete in various languages, a
 
 **Learn more:** [Project Euler](https://projecteuler.net/)
 
-"Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems." ~ [source](https://projecteuler.net/)
+"Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems." *~ [source](https://projecteuler.net/)*
 
 ## Python Challenge
 
