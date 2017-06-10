@@ -14,5 +14,28 @@ In addition, they also work with companies to connect them with participants who
 
 **Learn more:** [Contest Rules](https://www.codingame.com/rules)
 
-Complete different puzzles in multiple languages, either on your own or competing against others. *(Note that it's also a recruiting platform, where companies can find people with the skills they're looking for.)*
+Complete different puzzles in multiple languages, either on your own or competing against others.
 
+## HackerEarth
+
+**Learn more:** [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
+
+Sign up to complete various programming exercises.
+
+## HackerRank
+
+**Learn more:** [HackerRank](https://www.hackerrank.com/aboutus)
+
+They provide different programming exercises.
+
+## InterviewBit
+
+**Learn more:** [InterviewBit](https://www.interviewbit.com/pages/about_us/)
+
+"A platform to learn skills that you need for technology jobs. We help you polish your skills and get ready for the job, whether you are a fresh college graduate or a working professional. We also get you connected with the right companies worldwide based on your skills and preferences, and do everything needed to make sure you get your dream job."
+
+## LeetCode
+
+**Learn more:** [LeetCode](https://leetcode.com/faq/)
+
+They provide hundreds of exercises that you can complete in various languages, and then submit for grading. Looks like they save your answers too. Apparently interviewers can use the site for assessing an interviewee's technical skills, but it looks like anyone can use it. They also have [weekly challenges](https://leetcode.com/contest/).
