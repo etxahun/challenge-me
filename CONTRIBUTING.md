@@ -5,7 +5,9 @@ If you'd like to submit a site, just fork this repo and create a pull request co
 3. A link for learning more
 4. A brief description of the site
 
-Insert it wherever seems appropriate. *(i.e. specific dates, periodically, anytime, or something new)*
+Insert it wherever seems appropriate. *(i.e. specific dates, periodically or anytime... a challenge, a set of exercises... something new?)*
+
+*(Or feel free to open an "issue" instead, and I'll add them as I can.)*
 
 ---
 
