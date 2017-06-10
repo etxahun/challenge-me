@@ -1,3 +1,5 @@
+# Contributions
+
 If you'd like to submit a site, just fork this repo and create a pull request containing:
 
 1. The name of the event/site
@@ -9,9 +11,7 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically or any
 
 *(Or feel free to open an "issue" instead, and I'll add them as I can.)*
 
----
-
-***EXAMPLE:***
+# Example
 
 <h2>Name of Event</h2>
 
@@ -21,9 +21,9 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically or any
 
 Brief explanation of the purpose of the challenge/contest.
 
----
+# SAMPLE MARKDOWN
 
-***SAMPLE MARKDOWN** (copy this if it makes life easier)*
+*(copy this if it makes your life easier)*
 
 ```
 ## Name of Event
