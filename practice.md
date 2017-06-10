@@ -34,6 +34,12 @@ As near I can tell, anyone can sign up and either complete code katas in a given
 
 Complete different puzzles in multiple languages, either on your own or competing against others. *(Note that it's also a recruiting platform, where companies can find people with the skills they're looking for.)*
 
+## DailyProgrammer Subreddit
+
+**Learn more:** [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/)
+
+Problems are posted several times per week, and vary in complexity between easy, intermediate and hard. Then you can respond under each thread with your questions or solutions.
+
 ## Exercism
 
 **Learn more:** How it Works: For [New Developers](http://exercism.io/how-it-works/newbie) / For [Experienced Developers](http://exercism.io/how-it-works)
@@ -44,7 +50,19 @@ Complete a set of exercises in the language of your choice. You work on each exe
 
 **Learn more:** [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
 
-Sign up to complete various programming exercises. This site's a bit different than others in that companies, as far as I understand it, can try to recruit people based on the skills they show in completing exercises.
+Sign up to complete various programming exercises. As far as I understand it, companies can try to recruit people based on the skills they show in completing exercises.
+
+## HackerRank
+
+**Learn more:** [HackerRank](https://www.hackerrank.com/aboutus)
+
+Similar to HackerEarth, they provide different programming exercises, and companies can try to recruit those who show aptitude in whatever skills they're looking for.
+
+## LeetCode
+
+**Learn more:** [LeetCode](https://leetcode.com/faq/)
+
+They provide hundreds of exercises that you can complete in various languages, and then submit for grading. Looks like they save your answers too. Apparently interviewers can use the site for assessing an interviewee's technical skills, but it looks like anyone can use it. They also have [weekly challenges](https://leetcode.com/contest/).
 
 ## Project Euler
 
