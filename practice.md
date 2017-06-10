@@ -4,7 +4,7 @@ Following are sites which offer challenges or problems for programmers to work o
 
 **Learn more:** *Well...*
 
-This one is a bit different. Werner Hett created 99 problems to help people learn Prolog. It was then ported to several other languages.
+This one is a sort of a category. Werner Hett created 99 problems to help people learn Prolog. It was then ported to several other languages.
 
 * [P-99: Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
@@ -14,7 +14,13 @@ This one is a bit different. Werner Hett created 99 problems to help people lear
 
 **Learn more:** [CodeKata](http://codekata.com/kata/codekata-intro/)
 
-You can find code katas all over the web, but the owner of this particular site laid out some in such a way 
+You can find code katas all over the web - here's a site with a couple dozen. Here's [another](http://www.codekatas.org/) and [another](https://github.com/gamontalvo/awesome-katas). See? Lots.
+
+## Coderbyte
+
+**Learn more:** [Coderbyte](https://coderbyte.com/About/)
+
+Online programming exercises, which you can complete in a variety of languages, and are offered in various levels of difficulty, some timed and some not.
 
 ## Codewars
 
@@ -34,14 +40,32 @@ Complete different puzzles in multiple languages, either on your own or competin
 
 Complete a set of exercises in the language of your choice. You work on each exercise one at a time, and you're provided with the test suite that (when all the tests pass) proves your solution is doing what it should do.
 
+## HackerEarth
+
+**Learn more:** [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
+
+Sign up to complete various programming exercises. This site's a bit different than others in that companies, as far as I understand it, can try to recruit people based on the skills they show in completing exercises.
+
 ## Project Euler
 
 **Learn more:** [Project Euler](https://projecteuler.net/)
 
 "Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems." ~ [source](https://projecteuler.net/)
 
+## Python Challenge
+
+**Learn more:** [About Python Challenge](http://www.pythonchallenge.com/about.php)
+
+A series of levels (33 so far), to be solved one at a time. The site says Python, but I checked out a few and they're general enough that any programming language could be used.
+
 ## Ruby Quiz
 
 **Learn more:** [Ruby Quiz](http://rubyquiz.com/)
 
 Ruby Quiz is a weekly programming challenge for Ruby programmers, although the site is an archival site. Still, there are over 150 challenges on it, and I don't see any reason you'd *have* to solve them in Ruby, if you wanted to try a different language.
+
+## Timus Online Judge
+
+**Learn more:** [Timus Online Judge](http://acm.timus.ru/help.aspx?topic=judge)
+
+A collection of over 1000 problems of varying difficulty from contests at various universities and championships. You can complete them in any language, and then submit your solution for automatically judging by the system.
