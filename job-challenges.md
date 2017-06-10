@@ -1,8 +1,14 @@
-# Practices / Exercises with a Job-related Twist
+# Practices / Exercises... with a job-related twist
 
 Following are sites which offer exercises and practice problems for programmers to work on and improve their skill. I'm splitting them into their own area because maybe it's specifically what you're looking for (or trying to avoid).
 
 In addition, they also work with companies to connect them with participants who might be a good match. Of course it depends on the site, but they seem to usually give participants an "opt-in" choice for being contacted, and maintain a certain level of confidentiality so recruiters can't just access details about you.
+
+## CodeEval
+
+**Learn more:** [CodeEval](https://www.codeeval.com/)
+
+"Developers can participate in app building competitions and win cash/prizes. Employers can use CodeEval as a way to enhance their brand by launching competitions/programming challenges and as a means to get introduced to the best developers."
 
 ## CodeFights
 
