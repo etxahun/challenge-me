@@ -1,9 +1,9 @@
 If you'd like to submit a site, just fork this repo and create a pull request containing:
 
-1. The name of the event
-2. The date(s) of the event *(not applicable for 'anytime' events - i.e. October, or Second Week of February, Jan 15th, etc)*
+1. The name of the event/site
+2. The date(s) of the event *(when applicable, i.e. October, Second Week of February, Jan 15th, etc)*
 3. A link for learning more
-4. A brief description
+4. A brief description of the site
 
 Insert it wherever seems appropriate. *(i.e. specific dates, periodically, anytime, or something new)*
 
@@ -11,7 +11,7 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically, anyti
 
 ***EXAMPLE:***
 
-<h2>Name of Challenge</h2>
+<h2>Name of Event</h2>
 
 <b>Learn more:</b> [Some Link](http://example.com/)
 
@@ -24,7 +24,7 @@ Brief explanation of the purpose of the challenge/contest.
 ***SAMPLE MARKDOWN** (copy this if it makes life easier)*
 
 ```
-## Name of Challenge
+## Name of Event
 
 **Learn more:** [Some Link](http://example.com/)
 
