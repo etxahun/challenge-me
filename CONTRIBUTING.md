@@ -21,7 +21,7 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically or any
 
 Brief explanation of the purpose of the challenge/contest.
 
-## SAMPLE MARKDOWN
+## Sample Markdown
 
 *(copy this if it makes your life easier)*
 
