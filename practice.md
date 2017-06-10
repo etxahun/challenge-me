@@ -14,7 +14,13 @@ This one is a sort of a category. Werner Hett created 99 problems to help people
 
 **Learn more:** [Codechef](https://www.codechef.com/aboutus)
 
-"CodeChef is a not-for-profit educational initiative by Directi, an Indian software company. It is a global programming community that fosters learning and friendly competition, built on top of the world’s largest competitive programming platform." *~ [source](https://www.codechef.com/aboutus)
+"CodeChef is a not-for-profit educational initiative by Directi, an Indian software company. It is a global programming community that fosters learning and friendly competition, built on top of the world’s largest competitive programming platform."
+
+## Codeforces
+
+**Learn more:** [Codeforces](http://codeforces.com/)
+
+"Codeforces is a Russian website dedicated to competitive programming. It was created and is maintained by a group of competitive programmers from Saratov State University..." *~ [source](https://en.wikipedia.org/wiki/Codeforces)*
 
 ## CodeKata
 
@@ -70,11 +76,25 @@ Similar to HackerEarth, they provide different programming exercises, and compan
 
 They provide hundreds of exercises that you can complete in various languages, and then submit for grading. Looks like they save your answers too. Apparently interviewers can use the site for assessing an interviewee's technical skills, but it looks like anyone can use it. They also have [weekly challenges](https://leetcode.com/contest/).
 
+## Programming Praxis
+
+**Learn more:** [Programming Praxis: Sharpen your saw](https://programmingpraxis.com/contents/about/)
+
+"The programming exercises provided here aren't a contest. No points are awarded, no scores are kept, there is no list of readers who have completed all the exercises. If you complete the exercise, and perhaps in doing so learn something that will help you be a better programmer, then your effort is its own reward."
+
+A collection of about 500 exercises that you can complete in any language.
+
+## Programmr
+
+**Learn more:** [Programmr: Programmer's Playground](http://www.programmr.com/about_us)
+
+"Programmr is an online interactive lab for students and enthusiasts to learn, practice and become proficient in programming."
+
 ## Project Euler
 
 **Learn more:** [Project Euler](https://projecteuler.net/)
 
-"Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems." *~ [source](https://projecteuler.net/)*
+"Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems."
 
 ## Python Challenge
 
