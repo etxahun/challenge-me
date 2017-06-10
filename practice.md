@@ -4,9 +4,9 @@ Following are sites which offer exercises and practice problems for programmers 
 
 ## 99 Problems
 
-**Learn more:** *Well...*
+**Learn more:** *See below*
 
-This one is a sort of a category. Werner Hett created 99 problems to help people learn Prolog. It was then ported to several other languages.
+This one is sort of a category. Werner Hett created 99 problems to help people learn Prolog. It was then ported to several other languages.
 
 * [P-99: Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
@@ -42,11 +42,13 @@ Online programming exercises, which you can complete in a variety of languages, 
 
 As near I can tell, anyone can sign up and either complete code katas in a given language, or create code katas for others to complete.
 
-## CodinGame
+## Codingbat
 
-**Learn more:** [Contest Rules](https://www.codingame.com/rules)
+**Learn more:** [Codingbat](http://codingbat.com/about.html)
 
-Complete different puzzles in multiple languages, either on your own or competing against others. *(Note that it's also a recruiting platform, where companies can find people with the skills they're looking for.)*
+**Languages:** Java, Python
+
+"CodingBat is a free site of live coding problems to build coding skill in Java and Python. CodingBat is a project by Nick Parlante, a computer science lecturer at Stanford."
 
 ## DailyProgrammer Subreddit
 
@@ -59,24 +61,6 @@ Problems are posted several times per week, and vary in complexity between easy,
 **Learn more:** How it Works: For [New Developers](http://exercism.io/how-it-works/newbie) / For [Experienced Developers](http://exercism.io/how-it-works)
 
 Complete a set of exercises in the language of your choice. You work on each exercise one at a time, and you're provided with the test suite that (when all the tests pass) proves your solution is doing what it should do.
-
-## HackerEarth
-
-**Learn more:** [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
-
-Sign up to complete various programming exercises. As far as I understand it, companies can try to recruit people based on the skills they show in completing exercises.
-
-## HackerRank
-
-**Learn more:** [HackerRank](https://www.hackerrank.com/aboutus)
-
-Similar to HackerEarth, they provide different programming exercises, and companies can try to recruit those who show aptitude in whatever skills they're looking for.
-
-## LeetCode
-
-**Learn more:** [LeetCode](https://leetcode.com/faq/)
-
-They provide hundreds of exercises that you can complete in various languages, and then submit for grading. Looks like they save your answers too. Apparently interviewers can use the site for assessing an interviewee's technical skills, but it looks like anyone can use it. They also have [weekly challenges](https://leetcode.com/contest/).
 
 ## Programming Praxis
 
@@ -109,6 +93,14 @@ A series of levels (33 so far), to be solved one at a time. The site says Python
 **Learn more:** [Ruby Quiz](http://rubyquiz.com/)
 
 Ruby Quiz is a weekly programming challenge for Ruby programmers, although the site is an archival site. Still, there are over 150 challenges on it, and I don't see any reason you'd *have* to solve them in Ruby, if you wanted to try a different language.
+
+## Sphere Online Judge (SPOJ)
+
+**Learn more:** [About the SPOJ System](http://www.spoj.com/info/)
+
+"The SPOJ platform is centered around an *online judge* system, which serves for the automatic assessment of user-submitted programs."
+
+They have thousands of exercises in dozens of languages, and contests too.
 
 ## Timus Online Judge
 
