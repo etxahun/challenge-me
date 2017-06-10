@@ -1,4 +1,6 @@
-Here's a list of challenges and contests you can participate in. Some are certain times of the year, while others are on your own whenever you want. If you need an opensource project (such as for Hacktoberfest), check out these sites: [Up For Grabs](http://up-for-grabs.net/), [CodeMontage](http://codemontage.com/), [CodeTriage](https://www.codetriage.com/), [issuehub.io](http://issuehub.io/)
+Here's a list of challenges and contests you can participate in. Some are certain times of the year, while others are on your own whenever you want. While other sites may also provide challenges/contests, ones that revolve around specific pre-assigned problems that need to be solved in a specific way are on the [practice page](/practice.md). The challenges here are more an issue of fortitude (coding for 100 days or submitting so many PRs in a month) or of a more general nature that call for varying solutions (ludum dare). *Meh, maybe the line blurs...*
+
+If you need an opensource project (such as for Hacktoberfest), check out these sites: [Up For Grabs](http://up-for-grabs.net/), [CodeMontage](http://codemontage.com/), [CodeTriage](https://www.codetriage.com/), [issuehub.io](http://issuehub.io/), *any others?*
 
 # Anytime
 
