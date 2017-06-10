@@ -12,6 +12,16 @@ This one is sort of a category. Werner Hett created 99 problems to help people l
 * [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
+## CheckiO
+
+**Learn more:** [CheckiO](https://checkio.org/)
+
+**Languages:** JavaScript, Python
+
+Learn programming through gameplay.
+
+"[CheckiO] always wanted to create the most entertaining game where gaming and coding experiences are interlaced, where there is no border between playing and learning new skills. The game where coding comes organically as a skill needed to progress in a fun game."
+
 ## Codechef
 
 **Learn more:** [Codechef](https://www.codechef.com/aboutus)
