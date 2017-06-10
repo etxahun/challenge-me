@@ -1,4 +1,6 @@
-Following are sites which offer challenges or problems for programmers to work on and improve their skill.
+# Practice / Exercises
+
+Following are sites which offer exercises and practice problems for programmers to work on and improve their skill.
 
 ## 99 Problems
 
