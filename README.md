@@ -8,6 +8,6 @@ Finding ways to advance your programming skills is easier when you find a good r
 
 * [Sites that offer exercises/contests](practice.md), such as Project Euler or Exercism.io.
 
-* [Sites that offer exercises/contests](job-challenges.md), but who also work with companies to connect them with participants.<br>&#x261D; *(Note that these* aren't *a bad thing, and is probably a great way to monetize a site that has value for programmers too, but I'm placing them in their own area because they may be specifically what you're looking for... or trying to avoid!)*
+* [Sites that offer exercises/contests](job-challenges.md), *but who also work with companies to connect them with participants.*<br><br>&#x261D; *(Note that these* aren't *a bad thing, and is probably a great way to monetize a site that has value for programmers too, but I'm placing them in their own area because they may be specifically what you're looking for... or trying to avoid!)*
 
 Have a site to add, or notice something that needs fixed? [Contributions welcome](CONTRIBUTING.md)!
