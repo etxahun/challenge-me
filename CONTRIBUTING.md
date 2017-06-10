@@ -11,9 +11,9 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically or any
 
 *(Or feel free to open an "issue" instead, and I'll add them as I can.)*
 
-# Example
+## Example
 
-<h2>Name of Event</h2>
+<h3>Name of Event</h3>
 
 <b>Learn more:</b> [Some Link](http://example.com/)
 
@@ -21,7 +21,7 @@ Insert it wherever seems appropriate. *(i.e. specific dates, periodically or any
 
 Brief explanation of the purpose of the challenge/contest.
 
-# SAMPLE MARKDOWN
+## SAMPLE MARKDOWN
 
 *(copy this if it makes your life easier)*
 
