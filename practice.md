@@ -60,6 +60,12 @@ As near I can tell, anyone can sign up and either complete code katas in a given
 
 "CodingBat is a free site of live coding problems to build coding skill in Java and Python. CodingBat is a project by Nick Parlante, a computer science lecturer at Stanford."
 
+## Cyber-dojo
+
+**Learn more:** [Cyber-dojo](http://cyber-dojo.org/)
+
+Provides dozens of code katas to go through, and optionally share with others. Create a new session, select one of several dozen languages and your preferred testing framework, and then choose a kata to try out.
+
 ## DailyProgrammer Subreddit
 
 **Learn more:** [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/)
